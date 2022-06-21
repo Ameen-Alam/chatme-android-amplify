@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "chatmeandroidamplify",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Administrator\\AndroidStudioProjects\\chatme-android-amplify\\amplify\\backend\\api\\chatmeandroidamplify\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    },
+    "additionalAuthTypes": [
+      {
+        "mode": "AMAZON_COGNITO_USER_POOLS",
+        "cognitoUserPoolId": "authchatmeandroidamplify40342f29"
+      }
+    ]
+  }
+}

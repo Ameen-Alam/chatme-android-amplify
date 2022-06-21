@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatmeandroidamplify-dev-20524-authRole",
+      "UnauthRoleArn": "arn:aws:iam::210056938584:role/amplify-chatmeandroidamplify-dev-20524-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::210056938584:role/amplify-chatmeandroidamplify-dev-20524-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-chatmeandroidamplify-dev-20524-deployment",
+      "UnauthRoleName": "amplify-chatmeandroidamplify-dev-20524-unauthRole",
+      "StackName": "amplify-chatmeandroidamplify-dev-20524",
+      "StackId": "arn:aws:cloudformation:ap-south-1:210056938584:stack/amplify-chatmeandroidamplify-dev-20524/b55683a0-f0dc-11ec-b4b0-02353b3e70ca",
+      "AmplifyAppId": "dszjy0p8r76h2"
+    },
+    "categories": {
+      "auth": {
+        "chatmeandroidamplify40342f29": {}
+      }
+    }
+  }
+}
